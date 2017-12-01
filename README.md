@@ -13,7 +13,7 @@
 * User can write in lobby or hold a direct conversation with another user
 * Communication in each instance happens in order client-server-client in real time
 * Server creates a log of conversation (planned)
-* Savin conversation into a file (File->Save conversation)
+* Saving conversation into a file (File->Save conversation)
 * Changing the username 
 
 
