@@ -4,12 +4,12 @@
 * Multichat program (something like IRC)
 * Multiple client chat
 * 2 diffrent programs: server and client
-* Coding language: C++
+* Coding language: C#
 * PDF doc with history of work 
 
 # Features
 
-* Server provides a loobSerwer udostępnia lobby do którego można się zalogować
+* Server provides a loobfor a user to log in
 * User can write in lobby or hold a direct conversation with another user
 * Communication in each instance happens in order client-server-client in real time
 * Server creates a log of conversation (planned)
