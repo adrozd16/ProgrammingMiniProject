@@ -11,9 +11,9 @@ The project is based on a client-server connection. The server will start-up wit
 
 1- Download the project
 2- Extract the .zip file
-3- Run the server .exe file that can be found in ProgrammingMiniProject-master\ProgrammingMiniProject-master\Server\x64\Debug\Chat.exe
-4- Run the client .exe file that can be found in ProgrammingMiniProject-master\ProgrammingMiniProject-master\Client\x64\Debug\Client.exe
+3- Run the server .exe file that can be found in (ProgrammingMiniProject-master\ProgrammingMiniProject-master\Server\x64\Debug\Chat.exe)
+4- Run the client .exe file that can be found in (ProgrammingMiniProject-master\ProgrammingMiniProject-master\Client\x64\Debug\Client.exe)
 
 Note: 
-*It is important to the run the server before the client, otherwise that will resault in en error when excuting the sofware.
-*Remember to follow the instruction for installing the SFML library
+*It is important to run the server before the client, otherwise that will resault in en error when excuting the sofware.
+*Remember to follow the instructions of the [tutorials](https://www.sfml-dev.org/tutorials/2.4/), there is one for each platform/compiler that SFML supports. And make sure to download the SFML in (C:\)
