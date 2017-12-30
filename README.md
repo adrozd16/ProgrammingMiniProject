@@ -9,10 +9,10 @@ The project is based on a client-server connection. The server will start-up wit
 
 ## Installing instructions
 
-1- Download the project
-2- Extract the .zip file
-3- Run the server .exe file that can be found in (ProgrammingMiniProject-master\ProgrammingMiniProject-master\Server\x64\Debug\Chat.exe)
-4- Run the client .exe file that can be found in (ProgrammingMiniProject-master\ProgrammingMiniProject-master\Client\x64\Debug\Client.exe)
+ Download the project
+ Extract the .zip file
+ Run the server .exe file that can be found in (ProgrammingMiniProject-master\ProgrammingMiniProject-master\Server\x64\Debug\Chat.exe)
+ Run the client .exe file that can be found in (ProgrammingMiniProject-master\ProgrammingMiniProject-master\Client\x64\Debug\Client.exe)
 
 Note: 
 *It is important to run the server before the client, otherwise that will resault in en error when excuting the sofware.
